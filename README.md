@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Ömer Aydoğdu</h1>
-<h3 align="center">I am currently trainee in the MIUUL Data Science Bootcamp</h3>
+<h3 align="center"> I am currently trainee in the MIUUL Data Science Bootcamp</h3>
 <h3 align="center">I am a computer programmer and a 4th year Management Information Systems student.</h3>
 <h3 align="center">I was mainly interested in web programming, but my interest and passion for Data Science and Machine Learning led me to specialize in this field and continuously increase my skills..</h3>
-
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusemreturkogl&label=Profile%20views&color=0e75b6&style=flat" alt="yunusemreturkogl" /> </p>
 
 - 📫 How to reach me **aydogduomer950@gmail.com**
 
