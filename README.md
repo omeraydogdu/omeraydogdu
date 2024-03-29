@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Ömer Aydoğdu</h1>
-<h3 align="center"> I am currently trainee in the MIUUL Data Science Bootcamp</h3>
-<h3 align="center">I am a computer programmer and a 4th year Management Information Systems student.</h3>
-<h3 align="center">I was mainly interested in web programming, but my interest and passion for Data Science and Machine Learning led me to specialize in this field and continuously increase my skills..</h3>
+I am currently trainee in the MIUUL Data Science Bootcamp<br><br>
+I am a computer programmer and a 4th year Management Information Systems student.<br><br>
+I was mainly interested in web programming, but my interest and passion for Data Science and Machine Learning led me to specialize in this field and continuously increase my skills..<br><br>
 
 - 📫 How to reach me **aydogduomer950@gmail.com**
 
