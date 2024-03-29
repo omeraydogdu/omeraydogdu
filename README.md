@@ -5,7 +5,7 @@ I was mainly interested in web programming, but my interest and passion for Data
 
 - 📫 How to reach me **aydogduomer950@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/omeraydogdu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omeraydogdu/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/omeraydogddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/omeraydogddu" height="30" width="40" /></a>
