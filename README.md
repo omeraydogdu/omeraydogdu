@@ -4,7 +4,7 @@
 ⚡ I was mainly interested in web programming, but my interest and passion for Data Science and Machine Learning led me to specialize in this field and continuously   
    increase my skills..<br><br>
 
-- 📫 How to reach me **aydogduomer950@gmail.com**
+- 📫 How to reach me **omeraydoogdu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
