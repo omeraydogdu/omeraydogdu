@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/omeraydogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omeraydogdu" height="30" width="40" /></a>
 <a href="https://kaggle.com/omeraydogddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omeraydogddu" height="30" width="40" /></a>
+<a href="https://medium.com/@aydogduomer950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aydogduomer950" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
